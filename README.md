@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### Vlog
+### Blog
 [https://velog.io/@choikwangil](https://velog.io/@choikwangil)
 
 ### Career
