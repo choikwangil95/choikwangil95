@@ -2,6 +2,9 @@
 
 [![choikwangil95's github stats](https://github-readme-stats.vercel.app/api?username=choikwangil95)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choikwangil95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Blog
 [https://velog.io/@choikwangil](https://velog.io/@choikwangil)
 
