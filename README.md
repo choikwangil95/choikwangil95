@@ -12,7 +12,7 @@
   - 웹 프론트엔드
 - `Kakao mobility` 
   - 2021.12~
-  - 광고 플랫폼 DOOH 개발팀
+  - CMS개발팀
   - 웹 프론트엔드
 
 ### 2 Activity
