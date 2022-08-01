@@ -5,19 +5,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choikwangil95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 1 Career
-- `PLUS TV` 
-  - 2021.03~2021.12
-  - 디지털 사이니지 RND팀
-  - 웹 프론트엔드
+### Career
 - `Kakao mobility` 
   - 2021.12~
   - CMS개발팀
   - 웹 프론트엔드
+- [PLUS TV](https://plustv.io/)
+  - 2021.03~2021.12
+  - 디지털 사이니지 RND팀
+  - 웹 프론트엔드
 
-### 2 Activity
-- `Blog`
-  - [https://velog.io/@choikwangil](https://velog.io/@choikwangil)
-- `멋쟁이 사자처럼`
-  - 2019.03~2020.12
-  - 웹 개발 동아리
+### Activity
+- [Blog](https://velog.io/@choikwangil)
