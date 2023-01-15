@@ -6,9 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choikwangil95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Career
-- `Kakao mobility` 
+- [Kakao mobility]()
   - 2021.12~
-  - CMS개발팀
+  - DOOH개발tF
   - 웹 프론트엔드
 - [PLUS TV](https://plustv.io/)
   - 2021.03~2021.12
