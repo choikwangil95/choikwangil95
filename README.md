@@ -1,3 +1,6 @@
+### Docs
+- [Weekly](https://github.com/choikwangil95/choikwangil95/blob/main/Weekly.md)
+
 ### Career
 - [Kakao mobility]()
   - 2021.12~
