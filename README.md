@@ -1,5 +1,5 @@
 ### Docs
-- [Weekly](https://github.com/choikwangil95/choikwangil95/blob/main/Weekly.md)
+- [Todo_Weekly](https://github.com/choikwangil95/choikwangil95/blob/main/Todo_Weekly.md)
 
 ### Careers
 - [KDT MLOps 교육과정](https://kdt.hktossbank.com/)
