@@ -1,16 +1,21 @@
 
 # 할일
-- 실업급여 가능 여부 확인
-- 책 - python, data analysis
-- 강의 - Python, Docker, k8s
+- 극민취업지원제도 신청
+- 책 - 머신러닝
+- 강의 - Docker, k8s
 - 자격증 - 정처기, k8s
   
 # 일정
 - [2025/01](2025/01)
 - [2024/12](2024/12)
 ## 2025/01
+01/13
+- T.B.D
 01/06
-- mlops 토이 프로젝트 환경 구성
+- 책 - 혼자 공부하는 머신러닝
+- 모델 학습 - https://github.com/choikwangil95/ML_Model_Loan_Repayment_Prediction
+  - 모델 학습 1 - 기본 데이터셋 (application.csv)
+  - 모델 학습 2 - 추가 데이터셋 (application.csv + HomeCredit)
 ## 2024/12
 
 12/30
