@@ -11,6 +11,7 @@
 ## 2025/01
 01/13
 - T.B.D
+
 01/06
 - 책 - 혼자 공부하는 머신러닝
 - 모델 학습 - https://github.com/choikwangil95/ML_Model_Loan_Repayment_Prediction
