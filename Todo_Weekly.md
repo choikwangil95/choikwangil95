@@ -8,6 +8,8 @@
   - ADsP ([원서접수 1.20-1.24, 시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none))
   - SQLD ([원서접수 2.3~2.7, 시험일: 3.8](https://www.dataq.or.kr/www/accept/schedule.do#none))
   - CKAD (T.B.D)
+- 청약
+  - [SH](https://blog.naver.com/together_sh/223706036592?trackingCode=rss)
   
 # 일정
 ## 2025/01
