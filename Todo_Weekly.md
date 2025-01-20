@@ -5,7 +5,7 @@
   - ADsP
   - 머신러닝을 위한 기초 수학
 - 자격증
-  - ADsP ([원서접수 1.20-1.24, 시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none))
+  - ADsP ([원서접수 1.20-1.24, 시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
   - SQLD ([원서접수 2.3~2.7, 시험일: 3.8](https://www.dataq.or.kr/www/accept/schedule.do#none))
   - CKAD (T.B.D)
 - 청약
