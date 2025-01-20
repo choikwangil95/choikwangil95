@@ -1,7 +1,7 @@
 
 # 할일
 - 스터디
-  - 허위매물분류
+  - [Dacon 해커톤: 허위매물분류](https://dacon.io/competitions/official/236439/overview/description)
 - 책
   - 혼자 공부하는 머신러닝,딥러닝
   - ADsP
