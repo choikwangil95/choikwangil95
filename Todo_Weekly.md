@@ -1,15 +1,15 @@
 
 # 할일
+- 스터디
+  - 허위매물분류
 - 책
   - 혼자 공부하는 머신러닝,딥러닝
   - ADsP
   - 머신러닝을 위한 기초 수학
 - 자격증
-  - ADsP ([원서접수 1.20-1.24, 시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
+  - ADsP ([시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
   - SQLD ([원서접수 2.3~2.7, 시험일: 3.8](https://www.dataq.or.kr/www/accept/schedule.do#none))
   - CKAD (T.B.D)
-- 청약
-  - [SH](https://blog.naver.com/together_sh/223706036592?trackingCode=rss)
   
 # 일정
 ## 2025/01
@@ -22,6 +22,8 @@
   - 허위매물분류 1회차
 - 책
   - ADsP 1회독
+- 청약
+  - [SH](https://blog.naver.com/together_sh/223706036592?trackingCode=rss)
     
 ### 01/13
 - 책
