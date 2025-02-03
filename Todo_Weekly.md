@@ -5,6 +5,7 @@
 - 책
   - 혼자 공부하는 머신러닝,딥러닝
   - ADsP
+  - SQLD
   - 머신러닝을 위한 기초 수학
 - 자격증
   - ADsP ([시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
