@@ -8,7 +8,7 @@
   - 머신러닝을 위한 기초 수학
 - 자격증
   - ADsP ([시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
-  - SQLD ([원서접수 2.3~2.7, 시험일: 3.8](https://www.dataq.or.kr/www/accept/schedule.do#none))
+  - SQLD ([시험일: 3.8](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
   - CKAD (T.B.D)
   
 # 일정
