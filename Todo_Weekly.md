@@ -10,6 +10,7 @@
 - 자격증
   - ADsP ([시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
   - SQLD ([시험일: 3.8](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
+  - 빅데이터분석기사 ([원서 접수: 3.4~3.10](https://www.dataq.or.kr/www/accept/schedule.do))
   - CKAD (T.B.D)
   
 # 일정
