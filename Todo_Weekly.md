@@ -8,9 +8,9 @@
   - SQLD
   - 머신러닝을 위한 기초 수학
 - 자격증
-  - ADsP ([시험일: 2.22](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
-  - SQLD ([시험일: 3.8](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
-  - 빅데이터분석기사 ([원서 접수: 3.4~3.10](https://www.dataq.or.kr/www/accept/schedule.do))
+  - ADsP ([시험일: 2.22(토)](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
+  - SQLD ([시험일: 3.8(토)](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
+  - 빅데이터분석기사 ([원서 접수: 3.4~3.10, 시험일: 4.5(토)](https://www.dataq.or.kr/www/accept/schedule.do))
   - CKAD (T.B.D)
   
 # 일정
