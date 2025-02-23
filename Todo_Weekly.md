@@ -3,16 +3,18 @@
 - 스터디
   - [Dacon 해커톤: 허위매물분류](https://dacon.io/competitions/official/236439/overview/description)
 - 책
-  - 혼자 공부하는 머신러닝,딥러닝
   - SQLD
-  - 머신러닝을 위한 기초 수학
 - 자격증
-  - ADsP ([시험일: 2.22(토)](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
   - SQLD ([시험일: 3.8(토)](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
-  - 빅데이터분석기사 ([원서 접수: 3.4~3.10, 시험일: 4.5(토)](https://www.dataq.or.kr/www/accept/schedule.do))
   
 # 일정
 ## 2025/02
+### 02/24
+- 자격증
+  - SQLD 1회독
+- 스터디
+  - 모델 엔지니어링
+  - 깃헙 정리
 ### 02/17
 - 자격증
   - ADsP 기출, 오답
