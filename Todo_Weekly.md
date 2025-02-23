@@ -8,6 +8,9 @@
   - SQLD ([시험일: 3.8(토)](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
   
 # 일정
+## 2025/03
+### 03/03
+- T.B.D
 ## 2025/02
 ### 02/24
 - 자격증
