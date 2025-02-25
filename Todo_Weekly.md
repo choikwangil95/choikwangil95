@@ -2,8 +2,8 @@
 # 할일
 - 기타
   - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do) 
-- 스터디
-  - [Dacon 해커톤: 허위매물분류](https://dacon.io/competitions/official/236439/overview/description)
+- HK 중간프로젝트
+  - T.B.D
 - 책
   - SQLD
 - 자격증
@@ -20,6 +20,8 @@
 - 스터디
   - 모델 엔지니어링
   - 깃헙 정리
+- HK 중간프로젝트
+  - 주제선정
 ### 02/17
 - 자격증
   - ADsP 기출, 오답
