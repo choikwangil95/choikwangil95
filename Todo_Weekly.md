@@ -1,5 +1,7 @@
 
 # 할일
+- 기타
+  - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do) 
 - 스터디
   - [Dacon 해커톤: 허위매물분류](https://dacon.io/competitions/official/236439/overview/description)
 - 책
