@@ -1,7 +1,4 @@
-### Docs
-- [Todo_Weekly](https://github.com/choikwangil95/choikwangil95/blob/main/Todo_Weekly.md)
-
-### Careers
+### 커리어
 - [KDT 교육과정](https://kdt.hktossbank.com/)
   - 기간: 6개월 (2025.01~2025.07)
   - 직무: MLOps
@@ -13,3 +10,10 @@
   - 기간: 9개월 (2021.03~2021.12)
   - 직무: 웹 프론트엔드
   - 소속: RND팀
+ 
+### 프로젝트
+- [부동산 허위매물 분류 해커톤](https://github.com/choikwangil95/ML_Hackerton)
+
+### 자격증
+- ADsP
+- SQLD
