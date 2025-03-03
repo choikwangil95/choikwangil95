@@ -4,15 +4,16 @@
   - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do) 
 - HK 중간프로젝트
   - T.B.D
-- 책
-  - SQLD
 - 자격증
   - SQLD ([시험일: 3.8(토)](https://www.dataq.or.kr/www/accept/schedule.do#none)) **수험표 출력!!**
   
 # 일정
 ## 2025/03
 ### 03/03
-- T.B.D
+- 자격증
+  - SQLD 2회독, 기출
+- HK 중간프로젝트
+  - 주제선정
 ## 2025/02
 ### 02/24
 - 자격증
