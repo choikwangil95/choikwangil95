@@ -13,7 +13,7 @@
  
 ### 프로젝트
 - [해커톤) 부동산 허위매물 분류](https://github.com/choikwangil95/ML_Hackerton)
-- [프로젝트) 주택청약 당첨가점 예측](https://github.com/choikwangil95/HKToss-MLOps-Proejct)
+- [프로젝트) 주택청약 당첨가점,실거래가 예측](https://github.com/choikwangil95/HKToss-MLOps-Proejct)
 
 ### 자격증
 - ADsP
