@@ -2,15 +2,18 @@
 # 할일
 - 기타
   - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do) 
-- HK 중간프로젝트
-  - [주택청약 당첨가점 예측](https://github.com/choikwangil95/HKToss-MLOps-Proejct)
 - 자격증
   - [빅데이터분석기사 필기 4/5(토)](https://www.dataq.or.kr/www/accept/schedule.do)
   
 # 일정
 ## 2025/03
+### 03/24
+- 빅분기 1회독
+- HK 중간프로젝트
+  - 블로그 정리
 ### 03/17
-- 빅데이터분석기사 1회독
+- HK 중간프로젝트
+  - 마무리
 ### 03/10
 - HK 중간프로젝트
   - 1주차
