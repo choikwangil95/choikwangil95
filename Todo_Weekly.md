@@ -1,7 +1,8 @@
 
 # 할일
 - 기타
-  - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do) 
+  - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do)
+  - 청년매입주택 신청 4.7
 - 자격증
   - [빅데이터분석기사 필기 4/5(토)](https://www.dataq.or.kr/www/accept/schedule.do)
   - SQL 코테 준비?
