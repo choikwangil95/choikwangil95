@@ -1,5 +1,5 @@
 ### 커리어
-- [KDT 교육과정](https://kdt.hktossbank.com/)
+- [KDT 한경아카데미 with Toss Bank 교육과정]([https://kdt.hktossbank.com/](https://hktossbank.com/))
   - 기간: 6개월 (2025.01~2025.07)
   - 과정: MLOps
 - 카카오 모빌리티
