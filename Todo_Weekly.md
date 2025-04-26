@@ -10,7 +10,7 @@
 - 자격증
   - 빅데이터분석기사 실기접수	5.19~23
 - 기타
-  - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do)
+  - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do) 다음 신청일: 2025-05-07
   
 # 일정
 ## 2025-04
