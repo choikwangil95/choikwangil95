@@ -12,7 +12,7 @@
 - 기타
   - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do)
   
-# 📅 일정
+# 일정
 ## 2025-04
 
 | 03/31                                      | 04/07            | 04/14        | 04/21                          | 04/28|
