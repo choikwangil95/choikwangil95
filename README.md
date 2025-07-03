@@ -14,9 +14,10 @@
 ### 프로젝트
 - [해커톤) 부동산 허위매물 분류](https://github.com/choikwangil95/ML_Hackerton)
 - [프로젝트) 주택청약 당첨가점,실거래가 예측](https://github.com/choikwangil95/HKToss-MLOps-Proejct)
+- [프로젝트) 주식 투자 판단을 위한, 과거 유사 뉴스 제공 서비스](https://github.com/choikwangil95/HKToss-MLOps-Project-Final)
 
 ### 자격증
 - ADsP
 - SQLD
-- 빅데이터분석기사 (진행중)
+- 빅데이터분석기사 (진행중, 실기 접수: 10.27~10.31)
 - ADP (예정)
