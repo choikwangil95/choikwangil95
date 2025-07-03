@@ -12,9 +12,9 @@
   - 소속: RND팀
  
 ### 프로젝트
-- [해커톤) 부동산 허위매물 분류](https://github.com/choikwangil95/ML_Hackerton)
-- [프로젝트) 주택청약 당첨가점,실거래가 예측](https://github.com/choikwangil95/HKToss-MLOps-Proejct)
 - [프로젝트) 주식 투자 판단을 위한, 과거 유사 뉴스 제공 서비스](https://github.com/choikwangil95/HKToss-MLOps-Project-Final)
+- [프로젝트) 주택청약 당첨가점,실거래가 예측 서비스](https://github.com/choikwangil95/HKToss-MLOps-Proejct)
+- [해커톤) 부동산 허위매물 분류](https://github.com/choikwangil95/ML_Hackerton)
 
 ### 자격증
 - ADsP
