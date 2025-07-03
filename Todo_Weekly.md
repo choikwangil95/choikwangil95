@@ -1,14 +1,18 @@
 
 # 할일
 - 프로젝트
-  - 최종 프로젝트 검토
+  - 데이콘 할만한거 찾아보기
 - 취업
-  - 케이뱅크 인턴 (발표: 5.15)
-  - 현대오토에버 신입 ([지원: 4.24~5.12](https://litt.ly/hyundai_autoever)) 
+  - [롯데이노베이트 (마감: ~07.15)](https://recruit.lotte.co.kr/apply/announcement/detail/21593031?compcd=?id=bookmark1008)
+  - 
+- CS
+  - 부캠 정리
+  - 포트폴리오 정리
+  - 코딩테스트 (python, sql)
 - 자격증
-  - 빅데이터분석기사 실기접수	5.19~23
+  - 빅데이터분석기사 실기 접수: 10.27~10.31
 - 기타
-  - [취업지원수당신청](https://www.work24.go.kr/ua/t/b/1100/selectEmpmActFlflMngn.do) 다음 신청일: 2025-05-07
+  - 취업지원 마무리
   
 # 일정
 ## 2025-05
