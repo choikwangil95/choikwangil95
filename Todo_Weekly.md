@@ -3,6 +3,7 @@
 - 프로젝트
   - 데이콘 할만한거 찾아보기
 - 취업
+  - [UWS (마감: ~07.04](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=51034536&recommend_ids=eJxNj8ENA0EIA6vJ3941GN4pJP13kUuku%2BU58mCZIGpp5aeIl9%2BBZkToQv7wSnd13YiWZD8oMbePvHzpD7JU0N1MRqrjyN1YR4YTOVIbPM201WNkYxeGTOVITXKfW0W7j5xX7FG1d%2BXYbESO91344xcmyD%2Fj&view_type=list&gz=1&relayNonce=170bdc761bf8e132e72c&immediately_apply_layer_open=n#seq=0)
   - [롯데이노베이트 (마감: ~07.15)](https://recruit.lotte.co.kr/apply/announcement/detail/21593031?compcd=?id=bookmark1008)
   - 
 - CS
