@@ -13,8 +13,14 @@
  
 ### 프로젝트 및 대회
 - [1 프로젝트) 주식 투자 판단을 위한, 과거 유사 뉴스 제공 서비스](https://github.com/choikwangil95/HKToss-MLOps-Project-Final)
+  - 기간: 6주 (2025.05~2025.07)
+  - 주관: 한경아카데미 & 토스뱅크
 - [2 프로젝트) 주택청약 당첨가점,실거래가 예측 서비스](https://github.com/choikwangil95/HKToss-MLOps-Proejct)
+  - 기간: 2주 (2025.04~2025.05)
+  - 주관: 한경아카데미 & 토스뱅크
 - [3 해커톤) 부동산 허위매물 분류](https://github.com/choikwangil95/ML_Hackerton)
+  - 기간: 4주 (2025.03~2025.04)
+  - 주관: 데이콘
 
 ### 자격증
 - ADsP
